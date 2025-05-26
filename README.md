@@ -59,9 +59,9 @@ sistema-gestao-escolar/
 make
 
 👨‍👩‍👧‍👦 Equipe
-Nome Júlia Argueles
+Nome do aluno
 
-Nome do Julia Alves
+Nome do aluno
 
 Nome do Professor Orientador
 
